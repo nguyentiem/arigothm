@@ -1,0 +1,5 @@
+giua 2 dinh bat ki co  duy nhat mot duowng di 
+cay co n dinh -> co n-1 canh 
+gom tat ca cac dinh va tap canh la tap con 
+khong co chu trinh 
+co duy nhat mot duong di 

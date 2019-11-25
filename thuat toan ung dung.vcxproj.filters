@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\do thi">
+      <UniqueIdentifier>{c7aa2323-ac56-4e8d-8774-0e4a9b88ca10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\de quy quay lui">
+      <UniqueIdentifier>{cd77ae1a-0508-4e57-b62b-205f057ce132}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\mod">
+      <UniqueIdentifier>{7cf05ff2-10ab-4988-9c7d-3a1a6cd9c33a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\quy hoach dong">
+      <UniqueIdentifier>{df804e79-efa1-472d-8dc6-bf4653bf82bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\sort">
+      <UniqueIdentifier>{38120647-809d-44e2-a9d2-2f07fbea581f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\xu li tran so">
+      <UniqueIdentifier>{e366d3d8-3f06-47a0-b331-040d4193b83e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\stack">
+      <UniqueIdentifier>{d71195e8-e7fa-426b-911b-4b47e1cf786b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\do thi\tree of grapth">
+      <UniqueIdentifier>{cd26fcd2-6a5a-470f-abb6-bc9aca105106}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\queue">
+      <UniqueIdentifier>{e1c3c15a-3d33-40bc-846b-20c211afe589}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\de quy quay lui\nhanh can">
+      <UniqueIdentifier>{fd8bdfaf-09fb-45fe-9840-b0a4ff84cc03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\liet ke">
+      <UniqueIdentifier>{5352dc14-631d-49e4-abf5-4dd15baded70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\do thi\đường đi ngắn nhất">
+      <UniqueIdentifier>{828d4048-eac6-473d-836f-8cef3ef3f7c1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="do_thi_2_phia.cpp">
+      <Filter>Source Files\do thi</Filter>
+    </ClCompile>
+    <ClCompile Include="chu_trinh_hamiton.cpp">
+      <Filter>Source Files\do thi</Filter>
+    </ClCompile>
+    <ClCompile Include="chu_trinh_euler.cpp">
+      <Filter>Source Files\do thi</Filter>
+    </ClCompile>
+    <ClCompile Include="lien_thong_manh.cpp">
+      <Filter>Source Files\do thi</Filter>
+    </ClCompile>
+    <ClCompile Include="dfs.cpp">
+      <Filter>Source Files\do thi</Filter>
+    </ClCompile>
+    <ClCompile Include="subSequence.cpp">
+      <Filter>Source Files\quy hoach dong</Filter>
+    </ClCompile>
+    <ClCompile Include="Add.cpp">
+      <Filter>Source Files\xu li tran so</Filter>
+    </ClCompile>
+    <ClCompile Include="check_ngoac.cpp">
+      <Filter>Source Files\stack</Filter>
+    </ClCompile>
+    <ClCompile Include="AddMod.cpp">
+      <Filter>Source Files\mod</Filter>
+    </ClCompile>
+    <ClCompile Include="expMod.cpp">
+      <Filter>Source Files\mod</Filter>
+    </ClCompile>
+    <ClCompile Include="sumMod.cpp">
+      <Filter>Source Files\mod</Filter>
+    </ClCompile>
+    <ClCompile Include="duong_di_lon_nhat_tran_cay.cpp">
+      <Filter>Source Files\do thi\tree of grapth</Filter>
+    </ClCompile>
+    <ClCompile Include="dem_cay_khung.cpp">
+      <Filter>Source Files\do thi\tree of grapth</Filter>
+    </ClCompile>
+    <ClCompile Include="do_nuoc_mang.cpp">
+      <Filter>Source Files\queue</Filter>
+    </ClCompile>
+    <ClCompile Include="do_nuoc_queue.cpp">
+      <Filter>Source Files\queue</Filter>
+    </ClCompile>
+    <ClCompile Include="quick_sort_int.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="duong_di_ngan_nhat.cpp">
+      <Filter>Source Files\de quy quay lui\nhanh can</Filter>
+    </ClCompile>
+    <ClCompile Include="BUS.cpp">
+      <Filter>Source Files\de quy quay lui</Filter>
+    </ClCompile>
+    <ClCompile Include="TAXI.cpp">
+      <Filter>Source Files\de quy quay lui</Filter>
+    </ClCompile>
+    <ClCompile Include="combSort.cpp">
+      <Filter>Source Files\sort</Filter>
+    </ClCompile>
+    <ClCompile Include="can_bang_mon_hoc.cpp">
+      <Filter>Source Files\de quy quay lui</Filter>
+    </ClCompile>
+    <ClCompile Include="can_bang_mon_hoc_p.cpp">
+      <Filter>Source Files\de quy quay lui</Filter>
+    </ClCompile>
+    <ClCompile Include="mecung.cpp">
+      <Filter>Source Files\queue</Filter>
+    </ClCompile>
+    <ClCompile Include="hoan_vi_tiep.cpp">
+      <Filter>Source Files\liet ke</Filter>
+    </ClCompile>
+    <ClCompile Include="change.cpp">
+      <Filter>Source Files\quy hoach dong</Filter>
+    </ClCompile>
+    <ClCompile Include="chuoi_con_khong_tang.cpp">
+      <Filter>Source Files\quy hoach dong</Filter>
+    </ClCompile>
+    <ClCompile Include="chuoi_con_chung_dai_nhat.cpp">
+      <Filter>Source Files\quy hoach dong</Filter>
+    </ClCompile>
+    <ClCompile Include="gold_mine.cpp">
+      <Filter>Source Files\quy hoach dong</Filter>
+    </ClCompile>
+    <ClCompile Include="planing_tree.cpp">
+      <Filter>Source Files\quy hoach dong</Filter>
+    </ClCompile>
+    <ClCompile Include="CNK.cpp">
+      <Filter>Source Files\liet ke</Filter>
+    </ClCompile>
+    <ClCompile Include="drone_pickup.cpp">
+      <Filter>Source Files\quy hoach dong</Filter>
+    </ClCompile>
+    <ClCompile Include="ISLAND.cpp">
+      <Filter>Source Files\queue</Filter>
+    </ClCompile>
+    <ClCompile Include="max_subquence.cpp">
+      <Filter>Source Files\quy hoach dong</Filter>
+    </ClCompile>
+    <ClCompile Include="to_hop_tiep.cpp">
+      <Filter>Source Files\liet ke</Filter>
+    </ClCompile>
+    <ClCompile Include="nhi_phan_tiep.cpp">
+      <Filter>Source Files\liet ke</Filter>
+    </ClCompile>
+    <ClCompile Include="machine.cpp">
+      <Filter>Source Files\quy hoach dong</Filter>
+    </ClCompile>
+    <ClCompile Include="khoang_cach_ngan_nhat_giua_2diem.cpp">
+      <Filter>Source Files\quy hoach dong</Filter>
+    </ClCompile>
+    <ClCompile Include="Dijitra .cpp">
+      <Filter>Source Files\do thi\đường đi ngắn nhất</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="data.txt">
+      <Filter>Source Files\do thi</Filter>
+    </Text>
+    <Text Include="tc.txt">
+      <Filter>Source Files\do thi\tree of grapth</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
